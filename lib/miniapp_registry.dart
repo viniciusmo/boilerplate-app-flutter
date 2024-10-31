@@ -1,7 +1,6 @@
 import 'package:boilerplate_app_flutter/miniapp/example.dart';
 import 'package:flutter/material.dart';
 import 'package:miniapps/miniapp.dart';
-import 'package:miniapps/miniapp_navigator.dart';
 
 class MiniAppRegistry {
   static final List<MiniApp> _miniApps = [];

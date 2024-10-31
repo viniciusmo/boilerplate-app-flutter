@@ -134,7 +134,7 @@ packages:
   miniapps:
     dependency: "direct main"
     description:
-      path: "../miniapps"
+      path: miniapps
       relative: true
     source: path
     version: "0.0.1"
